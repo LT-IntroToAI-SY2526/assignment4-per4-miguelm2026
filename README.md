@@ -1,6 +1,6 @@
 ---
 title: 'Assignment 4: Tic Tac Toe'
-author: |
+author: |Miguel Martinez
   | Assignment written by Christine Alvarado, Harvey Mudd College,
   | with changes by Nathan Shelly and Sara Sood, Northwestern University.
 geometry: margin=1in
